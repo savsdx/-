@@ -11,7 +11,7 @@
 ## 介绍
 
 * `Final_plan.py`这是一个使用Tkinter编写的辞职信界面，你无法拒绝和关闭的辞职信，  
-  我认为它十分有趣，内部有十分详细的注释，遇到任何问题，请提 [Issue](https://github.com/hiroi-sora/Umi-OCR/issues) ，我会尽可能帮助你。
+  我认为它十分有趣，内部有十分详细的注释，遇到任何问题，请提 [Issue]([https://github.com/hiroi-sora/Umi-OCR/issues](https://github.com/savsdx/Resignation-letter/issues)) ，我会尽可能帮助你。
 
 ## 使用方法
 
